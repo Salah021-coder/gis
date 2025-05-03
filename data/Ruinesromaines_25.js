@@ -1,0 +1,1 @@
+var json_Ruinesromaines_25 = {"type":"FeatureCollection","name":"Ruinesromaines_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Ruines Romaines"},"geometry":{"type":"Point","coordinates":[5.405323125611561,36.192507988319498]}}]}

@@ -1,0 +1,1 @@
+var json_Garreroutiere_18 = {"type":"FeatureCollection","name":"Garreroutiere_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"SNTV","Image":"C:\\Users\\user\\Downloads\\SNTV_El Eulma.jpg"},"geometry":{"type":"Point","coordinates":[5.678173923679074,36.15334324547463]}}]}

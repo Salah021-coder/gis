@@ -1,0 +1,1 @@
+var json_Parcdeloisirs_22 = {"type":"FeatureCollection","name":"Parcdeloisirs_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Parc Mall","Image":"C:\\Users\\user\\Downloads\\parc Mall.jpg"},"geometry":{"type":"Point","coordinates":[5.407501758194732,36.192324524523016]}}]}

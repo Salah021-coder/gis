@@ -1,0 +1,1 @@
+var json_Gareroutiere_23 = {"type":"FeatureCollection","name":"Gareroutiere_23","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"SNTV","Image":"C:\\Users\\user\\Downloads\\SNTV_Setif.jpg"},"geometry":{"type":"Point","coordinates":[5.393263247614991,36.18457604574369]}}]}
